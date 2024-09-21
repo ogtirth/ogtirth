@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! <a href="https://emoji.gg/emoji/8397-wave"><img src="https://cdn3.emoji.gg/emojis/8397-wave.png" width="64px" height="64px" alt="wave"></a>, I'm ogtirth! <img height="40" <a href="https://emoji.gg/emoji/8400-glowing-star"><img src="https://cdn3.emoji.gg/emojis/8400-glowing-star.gif" width="64px" height="64px" alt="star"></a></h1>
-<h3 align="center">A passionate Computer Engineering Student and a beginner Unity developer from YOUR COUNTRY</h3>
+<h3 align="center">A passionate Computer Engineering Student and a beginner Unity developer from India</h3>
 
 - <a href="https://emoji.gg/emoji/2548-arrow-right"><img src="https://cdn3.emoji.gg/emojis/2548-arrow-right.gif" width="32px" height="32px" alt="ArrowRight"></a> I’m currently working on **Paribu Hub - Smart Contract & Solidity Practicum**
 
@@ -42,19 +42,14 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&theme=react&layout=compact" />
 </p>
 
-<h3 align="center">Achievements:</h3>
+<h3 align="center">Trophies:</h3>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=onedark" alt="Trophies"></a>
-</p>
-
-<h3 align="center">GitHub Streak:</h3>
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=ogtirth&theme=react&date_format=j%20M%5B%20Y%5D"><img src="https://streak-stats.demolab.com?user=ogtirth&theme=react&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=react" alt="Trophies" />
 </p>
 
 <h3 align="center">Activity Graph:</h3>
 <p align="center">
-  <a href="https://activity-graph.herokuapp.com/graph?username=ogtirth&theme=react-dark"><img src="https://activity-graph.herokuapp.com/graph?username=ogtirth&theme=react-dark" alt="Activity Graph"></a>
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=ogtirth&theme=react-dark"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ogtirth&theme=react-dark" alt="Activity Graph"></a>
 </p>
 
 <p align="center">
