@@ -10,31 +10,9 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![image](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![image](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heytirth/)
 
 </div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
-    <img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java">
-  </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-    <img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript">
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/csharp" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
-</p>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
@@ -55,8 +33,4 @@
 <h3 align="center">Activity Graph:</h3>
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=github-compact"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=github-compact" alt="Activity Graph"></a>
-</p>
-
-<p align="center">
-  <a href="https://emoji.gg/emoji/8006-waving"><img src="https://cdn3.emoji.gg/emojis/8006-waving.png" width="128px" height="128px" alt="waving"></a>
 </p>
