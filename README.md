@@ -1,50 +1,50 @@
-<h1 align="center"> Hi! 
-  <img src="https://media.giphy.com/media/jsxp1hRj8UAUVbC92s/giphy.gif?cid=790b76112j0skyairvnv38qm12xjhd1zft5kmff8tqeuey6t&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="wave" width="64px" height="64px">, I'm <strong style="font-size: 32px;">Tirth!</strong> 
+<h1 align="center" style="font-size: 40px;"> Hi! 
+  <img src="https://media.giphy.com/media/jsxp1hRj8UAUVbC92s/giphy.gif?cid=790b76112j0skyairvnv38qm12xjhd1zft5kmff8tqeuey6t&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="wave" width="64px" height="64px">, I'm <strong style="font-size: 40px;">Tirth!</strong> 
   <img height="40" src="https://cdn3.emoji.gg/emojis/8400-glowing-star.gif" width="64px" height="64px" alt="star">
 </h1>
 
-<h3 align="center"><strong style="font-size: 28px;">A Computer Engineering Student</strong></h3>
+<h3 align="center" style="font-size: 32px;"><strong>A Computer Engineering Student</strong></h3>
 
 - <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
     <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
-  </a> <strong style="font-size: 24px;">I’m currently studying <span style="color: #ff6f61;">BTech CSE</span></strong>
+  </a> <strong style="font-size: 28px;">I’m currently studying <span style="color: #ff6f61;">BTech CSE</span></strong>
 
 - <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
     <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
-  </a> <strong style="font-size: 24px;">I’m currently learning <span style="color: #ff6f61;">Java, C, and Python</span></strong>
+  </a> <strong style="font-size: 28px;">I’m currently learning <span style="color: #ff6f61;">Java, C, and Python</span></strong>
 
 - <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
     <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
-  </a> <strong style="font-size: 24px;">What I like to do: <span style="color: #ff6f61;">I enjoy gaming, movies, and fashion...and coding, of course!</span></strong>
+  </a> <strong style="font-size: 28px;">What I like to do: <span style="color: #ff6f61;">I enjoy gaming, movies, and fashion...and coding, of course!</span></strong>
 
-<h3 align="center"><strong style="font-size: 28px;">Connect with me:</strong></h3>
+<h3 align="center" style="font-size: 32px;"><strong>Connect with me:</strong></h3>
 <div align="center">
   <a href="https://www.instagram.com/heytirth/">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
-<h3 align="center"><strong style="font-size: 28px;">GitHub Stats:</strong></h3>
+<h3 align="center" style="font-size: 32px;"><strong>GitHub Stats:</strong></h3>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ogtirth&theme=react&show_icons=true&include_all_commits=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&theme=react&layout=compact" />
 </p>
 
-<h3 align="center"><strong style="font-size: 28px;">Achievements:</strong></h3>
+<h3 align="center" style="font-size: 32px;"><strong>Achievements:</strong></h3>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=onedark">
     <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=onedark" alt="Trophies">
   </a>
 </p>
 
-<h3 align="center"><strong style="font-size: 28px;">GitHub Streak:</strong></h3>
+<h3 align="center" style="font-size: 32px;"><strong>GitHub Streak:</strong></h3>
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=ogtirth&theme=react&date_format=j%20M%5B%20Y%5D">
     <img src="https://streak-stats.demolab.com?user=ogtirth&theme=react&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
   </a>
 </p>
 
-<h3 align="center"><strong style="font-size: 28px;">Activity Graph:</strong></h3>
+<h3 align="center" style="font-size: 32px;"><strong>Activity Graph:</strong></h3>
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=github-compact">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=github-compact" alt="Activity Graph">
