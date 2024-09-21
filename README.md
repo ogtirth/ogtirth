@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! 
-  <img src="https://tenor.com/view/imp-smiling-smile-telegram-gif-6433541661184880086" alt="wave" width="64px" height="64px">, I'm ogtirth! 
+  <img src="https://media.giphy.com/media/jsxp1hRj8UAUVbC92s/giphy.gif?cid=790b76112j0skyairvnv38qm12xjhd1zft5kmff8tqeuey6t&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="wave" width="64px" height="64px">, I'm ogtirth! 
   <img height="40" src="https://cdn3.emoji.gg/emojis/8400-glowing-star.gif" width="64px" height="64px" alt="star">
 </h1>
 
