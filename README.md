@@ -42,14 +42,19 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&theme=react&layout=compact" />
 </p>
 
-<h3 align="center">Trophies:</h3>
+<h3 align="center">Achievements:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=react" alt="Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=onedark" alt="Trophies"></a>
+</p>
+
+<h3 align="center">GitHub Streak:</h3>
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=ogtirth&theme=react&date_format=j%20M%5B%20Y%5D"><img src="https://streak-stats.demolab.com?user=ogtirth&theme=react&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"></a>
 </p>
 
 <h3 align="center">Activity Graph:</h3>
 <p align="center">
-  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=ogtirth&theme=react-dark"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ogtirth&theme=react-dark" alt="Activity Graph"></a>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=github-compact"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=github-compact" alt="Activity Graph"></a>
 </p>
 
 <p align="center">
