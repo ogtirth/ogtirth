@@ -1,9 +1,5 @@
 <h1 align="center"> Hi! 
-  <div class="tenor-gif-embed" data-postid="6433541661184880086" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-    <a href="https://tenor.com/view/imp-smiling-smile-telegram-gif-6433541661184880086">Imp Smiling Sticker</a> from 
-    <a href="https://tenor.com/search/imp-stickers">Imp Stickers</a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm ogtirth! 
+  <img src="https://tenor.com/view/imp-smiling-smile-telegram-gif-6433541661184880086" alt="wave" width="64px" height="64px">, I'm ogtirth! 
   <img height="40" src="https://cdn3.emoji.gg/emojis/8400-glowing-star.gif" width="64px" height="64px" alt="star">
 </h1>
 
