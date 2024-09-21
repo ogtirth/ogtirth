@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! 
-  <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="64px" height="64px" alt="wave" loop>
+  <a href="https://media.giphy.com/media/LpvKpYkVib5QprM47C/giphy.gif?cid=790b7611zim2znrnzlee9he6ojqfivz9l809tcx2ksfrcyvc&ep=v1_gifs_search&rid=giphy.gif&ct=s">
+    <img src="https://media.giphy.com/media/LpvKpYkVib5QprM47C/giphy.gif?cid=790b7611zim2znrnzlee9he6ojqfivz9l809tcx2ksfrcyvc&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="64px" height="64px" alt="wave">
   </a>, I'm ogtirth! 
   <img height="40" src="https://cdn3.emoji.gg/emojis/8400-glowing-star.gif" width="64px" height="64px" alt="star">
 </h1>
@@ -8,15 +8,15 @@
 <h3 align="center">A passionate Computer Engineering Student and a beginner Unity developer from India</h3>
 
 - <a href="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif?cid=ecf05e474x6lcfiarp52aeeik5l2qu8fgh4k8ro7d1ikgfdj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif?cid=ecf05e474x6lcfiarp52aeeik5l2qu8fgh4k8ro7d1ikgfdj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight" loop>
+    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
   </a> I’m currently working on **Paribu Hub - Smart Contract & Solidity Practicum**
 
 - <a href="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif?cid=ecf05e474x6lcfiarp52aeeik5l2qu8fgh4k8ro7d1ikgfdj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif?cid=ecf05e474x6lcfiarp52aeeik5l2qu8fgh4k8ro7d1ikgfdj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight" loop>
+    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
   </a> I’m currently learning **TypeScript, Solidity, and Unity**
 
 - <a href="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif?cid=ecf05e474x6lcfiarp52aeeik5l2qu8fgh4k8ro7d1ikgfdj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif?cid=ecf05e474x6lcfiarp52aeeik5l2qu8fgh4k8ro7d1ikgfdj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight" loop>
+    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
   </a> What I like to do: **I enjoy gaming, handcrafts, and fashion...and coding, of course!**
 
 <h3 align="center">Connect with me:</h3>
