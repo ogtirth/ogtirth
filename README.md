@@ -1,22 +1,24 @@
 <h1 align="center"> Hi! 
-  <a href="https://tenor.com/hPpQSVc79wM.gif">
-    <img src="https://tenor.com/hPpQSVc79wM.gif" width="64px" height="64px" alt="wave" loop>
-  </a>, I'm ogtirth! 
+  <div class="tenor-gif-embed" data-postid="6433541661184880086" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+    <a href="https://tenor.com/view/imp-smiling-smile-telegram-gif-6433541661184880086">Imp Smiling Sticker</a> from 
+    <a href="https://tenor.com/search/imp-stickers">Imp Stickers</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm ogtirth! 
   <img height="40" src="https://cdn3.emoji.gg/emojis/8400-glowing-star.gif" width="64px" height="64px" alt="star">
 </h1>
 
 <h3 align="center">A passionate Computer Engineering Student and a beginner Unity developer from India</h3>
 
 - <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight" loop>
+    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
   </a> I’m currently working on **Paribu Hub - Smart Contract & Solidity Practicum**
 
 - <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight" loop>
+    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
   </a> I’m currently learning **TypeScript, Solidity, and Unity**
 
 - <a href="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s">
-    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight" loop>
+    <img src="https://media.giphy.com/media/wAs2ha84kWkOu8x1A6/giphy.gif?cid=ecf05e47egxqm3crgigeovwx0yw3v4d3w5bsrsetc9nmjdrj&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="32px" height="32px" alt="ArrowRight">
   </a> What I like to do: **I enjoy gaming, handcrafts, and fashion...and coding, of course!**
 
 <h3 align="center">Connect with me:</h3>
