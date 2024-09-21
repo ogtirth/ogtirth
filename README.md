@@ -28,7 +28,7 @@
 <h3 align="center" style="font-size: 4vw; max-font-size: 40px;"><strong>Connect with me:</strong></h3>
 <div align="center">
   <a href="https://www.instagram.com/heytirth/">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/220px-Instagram_logo_2022.svg.png" alt="Instagram" width="50px" height="50px">
   </a>
 </div>
 
