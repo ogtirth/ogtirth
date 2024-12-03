@@ -39,7 +39,7 @@ To excel as a **Cybersecurity Engineer** by securing systems and contributing to
 ## Connect With Me  
 
 - **LinkedIn:** https://www.linkedin.com/in/thetirthparmar
-- **Email:** thetirthparmar@gmail.com(mailto:thetirthparmar@gmail.com)  
+- **Email:** thetirthparmar@gmail.com
 - **Twitter:** [@thetirthparmar](#)  
 
 Let’s connect and grow together!  
