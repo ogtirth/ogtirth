@@ -31,8 +31,8 @@ To excel as a **Cybersecurity Engineer** by securing systems and contributing to
 
 ## 📈 GitHub Stats  
 
-![Tirth Parmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+![Tirth Parmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=radical)  
 
 ---
 
