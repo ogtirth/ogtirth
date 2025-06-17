@@ -28,24 +28,28 @@
 <table>
   <tr>
     <td width="55%">
-      <h2>🚀 About Me</h2>
-      
-      ```yaml
-      name: Tirth Parmar
-      role: Cybersecurity Strategist & Full-Stack Developer
-      location: ["Gujarat", "India"]
-      education: B.Tech CSE @ Darshan University ('27)
-      interests: ["Ethical Hacking", "AI/ML", "Reverse Engineering"]
-      currently_learning: ["Advanced Penetration Testing", "Machine Learning"]
-      fun_fact: "I build systems and then figure out how to break them! 😄"
-      ```
+      <h2>💫 Who Am I?</h2>
       
       <p>
-        🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/>
-        🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/>
-        🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/>
-        🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/>
-        📚 <b>Continuous Learner</b> always staying ahead of emerging threats
+        🎯 <strong>Cybersecurity Strategist</strong> who thinks like an attacker to build better defenses<br/>
+        ⚡ <strong>Full-Stack Developer</strong> crafting secure, scalable web applications with MERN stack<br/>
+        🔍 <strong>Digital Detective</strong> specializing in reverse engineering and vulnerability research<br/>
+        🧠 <strong>AI Enthusiast</strong> leveraging machine learning for next-gen security solutions<br/>
+        🎓 <strong>CS Student</strong> at Darshan University, graduating in 2027<br/>
+        🚀 <strong>Problem Solver</strong> who loves turning complex challenges into elegant solutions
+      </p>
+      
+      <h3>🎪 What Drives Me</h3>
+      <p>
+        I'm fascinated by the cat-and-mouse game between attackers and defenders in cybersecurity. 
+        My approach is unique: I build robust applications by day and ethically break them by night. 
+        This dual perspective helps me create truly secure systems that can withstand real-world threats.
+      </p>
+      
+      <h3>⚡ Current Mission</h3>
+      <p>
+        Bridging the gap between offensive security and defensive programming through AI-powered 
+        threat detection and bulletproof application architecture.
       </p>
     </td>
     <td width="45%" align="center">
