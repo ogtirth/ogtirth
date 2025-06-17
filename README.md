@@ -25,112 +25,37 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
-<table>
-  <tr>
-    <td width="55%">
-      <h2>💫 Who Am I?</h2>
-      
-      <p>
-        🎯 <strong>Cybersecurity Strategist</strong> who thinks like an attacker to build better defenses<br/>
-        ⚡ <strong>Full-Stack Developer</strong> crafting secure, scalable web applications with MERN stack<br/>
-        🔍 <strong>Digital Detective</strong> specializing in reverse engineering and vulnerability research<br/>
-        🧠 <strong>AI Enthusiast</strong> leveraging machine learning for next-gen security solutions<br/>
-        🎓 <strong>CS Student</strong> at Darshan University, graduating in 2027<br/>
-        🚀 <strong>Problem Solver</strong> who loves turning complex challenges into elegant solutions
-      </p>
-      
-      <h3>🎪 What Drives Me</h3>
-      <p>
-        I'm fascinated by the cat-and-mouse game between attackers and defenders in cybersecurity. 
-        My approach is unique: I build robust applications by day and ethically break them by night. 
-        This dual perspective helps me create truly secure systems that can withstand real-world threats.
-      </p>
-      
-      <h3>⚡ Current Mission</h3>
-      <p>
-        Bridging the gap between offensive security and defensive programming through AI-powered 
-        threat detection and bulletproof application architecture.
-      </p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding animation"/>
-      
-      <div align="center" style="margin-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
-
-<h2 align="center">🛠️ My Arsenal</h2>
-
 <div align="center">
-
-### 🛡️ Cybersecurity & Penetration Testing
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,bash" alt="OS & Tools"/>
-<br/>
-<img src="https://img.shields.io/badge/Nmap-00D9FF?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0A0A0A" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0A0A" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-FF3366?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0A0A0A" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0A0A0A" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Ghidra-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A0A0A" alt="Ghidra"/>
-
-### 💻 Full-Stack Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,javascript,typescript,html,css" alt="Tech Stack"/>
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A0A0A" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A" alt="PostgreSQL"/>
-
-### 🤖 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0A0A0A" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0A0A" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0A0A0A" alt="NumPy"/>
-
+  <h2>🔥 Terminal Interface</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=300&lines=┌──(tirth@kali)-[~]%0A└─$+whoami;%0A;cybersecurity_strategist+%26%26+full_stack_developer;%0A;%0A┌──(tirth@kali)-[~]%0A└─$+cat+skills.txt;%0A;[+]+Penetration+Testing+%26+Ethical+Hacking;[+]+MERN+Stack+Development;[+]+Reverse+Engineering+%26+Malware+Analysis;[+]+AI/ML+for+Cybersecurity;[+]+OSINT+%26+Digital+Forensics;%0A;%0A┌──(tirth@kali)-[~]%0A└─$+./current_mission.sh;%0A;[*]+Building+AI-powered+security+tools...;[*]+Securing+web+applications...;[*]+Hunting+for+vulnerabilities...;%0A;Status:+ACTIVE" alt="Terminal Interface" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF3366&currStreakLabel=00D9FF&background=0D1117&stroke=30363D" width="48%" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF3366&point=00D9FF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=tokyonight&no-frame=true&margin-w=15&column=7&row=1&no-bg=true&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers" alt="Trophy Stats" width="90%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<div align="center">
+  <h2>⚡ Interactive Dashboard</h2>
+  
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="100px" alt="Cybersecurity"/>
-        <br/><b>🛡️ Advanced Penetration Testing</b>
-        <br/>Exploring zero-day exploits & advanced persistent threats
+      <td width="50%">
+        <div align="center">
+          <h3>🛡️ Security Arsenal</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ogtirth&repo=security-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3366&text_color=C9D1D9&icon_color=FF3366" alt="Security Tools"/>
+          <br/>
+          <img src="https://progress-bar.dev/95/?scale=100&title=Penetration%20Testing&width=200&color=FF3366&suffix=%"/>
+          <img src="https://progress-bar.dev/88/?scale=100&title=Reverse%20Engineering&width=200&color=00D9FF&suffix=%"/>
+          <img src="https://progress-bar.dev/92/?scale=100&title=OSINT&width=200&color=FFD700&suffix=%"/>
+        </div>
       </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100px" alt="AI"/>
-        <br/><b>🤖 AI-Powered Security</b>
-        <br/>Building ML models for threat detection & analysis
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Development"/>
-        <br/><b>🚀 Secure Full-Stack Apps</b>
-        <br/>Creating bulletproof web applications with modern tech
+      <td width="50%">
+        <div align="center">
+          <h3>💻 Development Stack</h3>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ogtirth&repo=web-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" alt="Web Projects"/>
+          <br/>
+          <img src="https://progress-bar.dev/90/?scale=100&title=React/Node.js&width=200&color=61DAFB&suffix=%"/>
+          <img src="https://progress-bar.dev/85/?scale=100&title=Python&width=200&color=3776AB&suffix=%"/>
+          <img src="https://progress-bar.dev/80/?scale=100&title=AI/ML&width=200&color=FF6B35&suffix=%"/>
+        </div>
       </td>
     </tr>
   </table>
@@ -138,9 +63,104 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
-<h2 align="center">🌐 Let's Connect & Collaborate</h2>
+<div align="center">
+  <h2>🎮 Interactive Tech Stack</h2>
+  
+  <details>
+    <summary>🛡️ Click to expand Cybersecurity Arsenal</summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=linux,kali,docker,bash,python" alt="Security OS"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Nmap-Network%20Discovery-00D9FF?style=flat-square&logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Metasploit-Exploitation-FF3366?style=flat-square&logo=metasploit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-FFD700?style=flat-square&logo=hackthebox&logoColor=black"/>
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-Security%20Testing-00D9FF?style=flat-square&logo=owasp&logoColor=white"/>
+  </details>
+  
+  <details>
+    <summary>💻 Click to expand Development Stack</summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,tailwind,postgres" alt="Dev Stack"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Frontend-React%20+%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Backend-Node.js%20+%20Express-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Database-MongoDB%20+%20PostgreSQL-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DevOps-Docker%20+%20Git-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  </details>
+  
+  <details>
+    <summary>🤖 Click to expand AI/ML Toolkit</summary>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI/ML Stack"/>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow%20+%20PyTorch-FF6B35?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Data%20Science-Pandas%20+%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ML%20Ops-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  </details>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
 <div align="center">
+  <h2>📊 Real-time Analytics Dashboard</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&custom_title=🔥%20Tirth's%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF3366&currStreakLabel=00D9FF&background=0D1117&stroke=30363D" width="48%" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF3366&point=00D9FF&area=true&hide_border=true&custom_title=Activity%20Heatmap" width="95%" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <h3>🏆 Achievement Unlocked</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=tokyonight&no-frame=true&margin-w=15&column=7&row=1&no-bg=true" alt="Trophy Stats" width="90%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
+
+<div align="center">
+  <h2>🎯 Mission Control Center</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="80px" alt="Security"/>
+        <br/><strong>🛡️ SECURITY OPS</strong>
+        <br/><img src="https://progress-bar.dev/78/?scale=100&title=Progress&width=150&color=FF3366"/>
+        <br/><small>Advanced Penetration Testing</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80px" alt="AI"/>
+        <br/><strong>🤖 AI RESEARCH</strong>
+        <br/><img src="https://progress-bar.dev/65/?scale=100&title=Progress&width=150&color=FF6B35"/>
+        <br/><small>ML for Threat Detection</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80px" alt="Development"/>
+        <br/><strong>🚀 DEV PROJECTS</strong>
+        <br/><img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=150&color=61DAFB"/>
+        <br/><small>Secure Web Applications</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80px" alt="Learning"/>
+        <br/><strong>📚 LEARNING</strong>
+        <br/><img src="https://progress-bar.dev/92/?scale=100&title=Progress&width=150&color=FFD700"/>
+        <br/><small>Advanced Techniques</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
+
+<div align="center">
+  <h2>🌐 Command Center - Connect & Collaborate</h2>
+  
   <a href="https://www.linkedin.com/in/thetirthparmar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" />
   </a>
@@ -156,14 +176,15 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=System%20Status:%20ONLINE&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogtirth&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ogtirth&color=00D9FF&style=for-the-badge&label=VISITORS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ogtirth?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00FF00?style=for-the-badge&labelColor=0A0A0A" alt="Status" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=2000&color=00D9FF¢er=true&vCenter=true&width=600&lines=💡+Always+open+to+interesting+projects+and+collaborations!;🔐+Let's+build+something+secure+together!;📫+Feel+free+to+reach+out!" alt="Footer message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=800&lines=💡+Always+ready+for+the+next+challenge;🔐+Let's+build+something+bulletproof+together;🚀+Open+to+collaborations+and+innovative+projects;📡+Currently+online+and+coding..." alt="Footer message" />
 </div>
