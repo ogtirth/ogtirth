@@ -30,7 +30,6 @@
   <tr>
     <td width="55%">
       <h2>🚀 About Me</h2>
-
       name: Tirth Parmar
       role: Cybersecurity Strategist & Full-Stack Developer
       location: ["Gujarat", "India"]
@@ -49,7 +48,7 @@
     <td width="45%" align="center">
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding animation"/>
 
-      <div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
       </div>
     </td>
