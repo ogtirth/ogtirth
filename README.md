@@ -25,19 +25,65 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
+
 <table>
   <tr>
     <td width="55%">
       <h2>🚀 About Me</h2>
       
-      ```yaml
-      name: Tirth Parmar
-      role: Cybersecurity Strategist & Full-Stack Developer
-      location: ["Gujarat", "India"]
-      education: B.Tech CSE @ Darshan University ('27)
-      interests: ["Ethical Hacking", "AI/ML", "Reverse Engineering"]
-      currently_learning: ["Advanced Penetration Testing", "Machine Learning"]
-      fun_fact: "I build systems and then figure out how to break them! 😄"
+      <div align="left">
+        <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal"/>
+      </div>
+      
+      ```bash
+      ┌──(tirth㉿kali)-[~/profile]
+      └─$ whoami
+      tirth
+      
+      ┌──(tirth㉿kali)-[~/profile]  
+      └─$ cat about_me.txt
+      
+      ╭─────────────────────────────────────────────────╮
+      │                 SYSTEM INFO                     │
+      ├─────────────────────────────────────────────────┤
+      │ User:         Tirth Parmar                      │
+      │ Role:         Cybersecurity Strategist          │  
+      │ Stack:        Full-Stack Developer              │
+      │ Location:     Gujarat, India                    │
+      │ Education:    B.Tech CSE @ Darshan Uni ('27)   │
+      │ Status:       🟢 Available for projects         │
+      ╰─────────────────────────────────────────────────╯
+      
+      ┌──(tirth㉿kali)-[~/profile]
+      └─$ ls -la skills/
+      total 64
+      drwxr-xr-x  4 tirth tirth 4096 Jun 18 12:30 .
+      drwxr-xr-x  3 tirth tirth 4096 Jun 18 12:30 ..
+      -rwxr-xr-x  1 tirth tirth 2048 Jun 18 12:30 ethical_hacking
+      -rwxr-xr-x  1 tirth tirth 1856 Jun 18 12:30 penetration_testing  
+      -rwxr-xr-x  1 tirth tirth 2304 Jun 18 12:30 reverse_engineering
+      -rwxr-xr-x  1 tirth tirth 1792 Jun 18 12:30 ai_ml_security
+      -rwxr-xr-x  1 tirth tirth 2112 Jun 18 12:30 mern_stack
+      
+      ┌──(tirth㉿kali)-[~/profile]
+      └─$ echo $INTERESTS
+      "Building systems and then figuring out how to break them! 😄"
+      
+      ┌──(tirth㉿kali)-[~/profile]
+      └─$ ps aux | grep learning
+      root     1337  0.8  2.1  Advanced_Penetration_Testing
+      root     1338  0.6  1.9  Machine_Learning_Security
+      root     1339  0.9  2.3  Zero_Day_Research
+      
+      ┌──(tirth㉿kali)-[~/profile]
+      └─$ sudo systemctl status motivation.service
+      ● motivation.service - Daily Motivation Service
+         Loaded: loaded (/etc/systemd/system/motivation.service)
+         Active: active (running) since Boot
+         Main PID: 1 (secure-the-world)
+      
+      ┌──(tirth㉿kali)-[~/profile]
+      └─$ █
       ```
       
       <p>
@@ -57,7 +103,6 @@
     </td>
   </tr>
 </table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
 <h2 align="center">🛠️ My Arsenal</h2>
