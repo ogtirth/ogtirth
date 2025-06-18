@@ -29,8 +29,8 @@
 <table>
   <tr>
     <td width="55%">
-      <h2>🚀 About Me</h2> 
-    <td>
+      <h2>🚀 About Me</h2>
+      <div>
       name: Tirth Parmar
       role: Cybersecurity Strategist & Full-Stack Developer
       location: ["Gujarat", "India"]
@@ -38,7 +38,6 @@
       interests: ["Ethical Hacking", "AI/ML", "Reverse Engineering"]
       currently_learning: ["Advanced Penetration Testing", "Machine Learning"]
       fun_fact: "I build systems and then figure out how to break them! 😄
-    <td>
       <br>
       <p>
         - 🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/>
@@ -47,6 +46,7 @@
         - 🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/>
         - 📚 <b>Continuous Learner</b> always staying ahead of emerging threats
       </p>
+    </div>
     </td>
     <td width="45%" align="center">
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding animation"/>
