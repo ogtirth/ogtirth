@@ -31,21 +31,21 @@
     <td width="55%">
       <h2>🚀 About Me</h2>
       <p>
-      name: Tirth Parmar
-      role: Cybersecurity Strategist & Full-Stack Developer
-      location: ["Gujarat", "India"]
-      education: B.Tech CSE @ Darshan University ('27)
-      interests: ["Ethical Hacking", "AI/ML", "Reverse Engineering"]
-      currently_learning: ["Advanced Penetration Testing", "Machine Learning"]
-      fun_fact: "I build systems and then figure out how to break them! 😄"
+      - name: Tirth Parmar
+      - role: Cybersecurity Strategist & Full-Stack Developer
+      - location: ["Gujarat", "India"]
+      - education: B.Tech CSE @ Darshan University ('27)
+      - interests: ["Ethical Hacking", "AI/ML", "Reverse Engineering"]
+      - currently_learning: ["Advanced Penetration Testing", "Machine Learning"]
+      - fun_fact: "I build systems and then figure out how to break them! 😄"
       </p>
       <br>
       <p>
-        🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/>
-        🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/>
-        🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/>
-        🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/>
-        📚 <b>Continuous Learner</b> always staying ahead of emerging threats
+        - 🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/>
+        - 🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/>
+        - 🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/>
+        - 🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/>
+        - 📚 <b>Continuous Learner</b> always staying ahead of emerging threats
       </p>
     </td>
     <td width="45%" align="center">
