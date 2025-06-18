@@ -31,6 +31,7 @@
     <td width="55%">
       <h2>🚀 About Me</h2>
       <div>
+      <li>
       name: Tirth Parmar
       role: Cybersecurity Strategist & Full-Stack Developer
       location: ["Gujarat", "India"]
@@ -38,6 +39,7 @@
       interests: ["Ethical Hacking", "AI/ML", "Reverse Engineering"]
       currently_learning: ["Advanced Penetration Testing", "Machine Learning"]
       fun_fact: "I build systems and then figure out how to break them! 😄
+      </li>
       <br>
       <p>
         - 🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/>
