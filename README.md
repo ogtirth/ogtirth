@@ -42,11 +42,13 @@
       </ul>
       <br>
       <p>
-        - 🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/>
-        - 🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/>
-        - 🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/>
-        - 🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/>
-        - 📚 <b>Continuous Learner</b> always staying ahead of emerging threats
+      <ul>
+        <li>🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/></li>
+        <li>🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/></li>
+        <li>🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/></li>
+        <li>🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/></li>
+        <li>📚 <b>Continuous Learner</b> always staying ahead of emerging threats</li>
+      </ul>
       </p>
     </div>
     </td>
