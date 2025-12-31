@@ -95,18 +95,21 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&text_color=ffffff" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=react&hide_border=true&background=0D1117&ring=3382ed&fire=FF3366&currStreakLabel=3382ed" width="45%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3382ed&text_color=ffffff" width="91%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed&text_color=ffffff" width="45%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=tokyonight&hide_border=true&background=0D1117&ring=3382ed&fire=FF3366&currStreakLabel=3382ed" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=git_dark&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ed&text_color=ffffff" width="91%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
 </div>
 
 <br/>
