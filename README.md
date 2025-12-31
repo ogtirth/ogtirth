@@ -92,27 +92,25 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📈 Coding Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ed&icon_color=3382ed&text_color=ffffff" width="45%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=tokyonight&hide_border=true&background=0D1117&ring=3382ed&fire=FF3366&currStreakLabel=3382ed" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=react-dark&bg_color=0D1117&color=ffffff&line=3382ed&point=3382ed&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<h2 align="center">🌐 Connect & Collaborate</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=500&size=18&duration=4000&pause=2000&color=3382ed&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+projects!;Let's+build+secure+solutions+together.;Feel+free+to+reach+out!" alt="Footer Message" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ed&text_color=ffffff" width="91%" />
+  <img src="https://komarev.com/ghpvc/?username=ogtirth&color=3382ed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161b22,0D1117&height=100&section=footer"/>
