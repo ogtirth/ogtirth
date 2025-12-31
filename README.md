@@ -1,167 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=800&height=100&lines=👋+Hey%2C+I'm+Tirth+Parmar;🛡️+Cybersecurity+Strategist;🚀+Full-Stack+Architect;🔍+Reverse+Engineering+Expert;🤖+AI%2FML+Enthusiast;💻+Building+Secure+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=50&fontAlign=50&fontAlignY=35&desc=Tirth%20Parmar%20//%20Cybersecurity%20&%20Full-Stack&descAlign=50&descAlignY=60&animation=twinkling&stroke=00D9FF" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" alt="Developer working"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&width=600&lines=%3E_initiate_protocol%3A+Pentesting;%3E_executing%3A+Full_Stack_Build;%3E_loading%3A+AI_Neural_Networks;%3E_status%3A+System_Secure" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ogtirth">
-    <img src="https://img.shields.io/badge/🎯_OSINT-00D9FF?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="OSINT Badge"/>
-  </a>
-  <a href="https://github.com/ogtirth">
-    <img src="https://img.shields.io/badge/🔴_Penetration_Testing-FF3366?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Pentesting Badge"/>
-  </a>
-  <a href="https://github.com/ogtirth">
-    <img src="https://img.shields.io/badge/⚡_MERN_Stack-61DAFB?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="MERN Stack Badge"/>
-  </a>
-  <a href="https://github.com/ogtirth">
-    <img src="https://img.shields.io/badge/🧠_AI_&_ML-FF6B35?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="AI/ML Badge"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
-
 
 <table>
   <tr>
-    <td width="55%">
-      <h2>🚀 About Me</h2>
-      <div>
-      <ul>
-      <li><b>name:</b> Tirth Parmar</li>
-      <li><b>role:</b> Cybersecurity Strategist & Full-Stack Developer</li>
-      <li><b>location:</b> ["Gujarat", "India"]</li>
-      <li><b>education:</b> B.Tech CSE @ Darshan University ('27)</li>
-      <li><b>interests:</b> ["Ethical Hacking", "AI/ML", "Reverse Engineering"]</li>
-      <li><b>currently_learning:</b> ["Advanced Penetration Testing", "Machine Learning"]</li>
-      <li><b>fun_fact:</b> "I build systems and then figure out how to break them! 😄</li>
-      </ul>
-      <br>
-      <p>
-      <ul>
-        <li>🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/></li>
-        <li>🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/></li>
-        <li>🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/></li>
-        <li>🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/></li>
-        <li>📚 <b>Continuous Learner</b> always staying ahead of emerging threats</li>
-      </ul>
-      </p>
-    </div>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding animation"/>
-      <div align="center" style="margin-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
+    <td width="50%" valign="top">
+      <h2 align="center">🕵️‍♂️ IDENTITY_CONFIRMED</h2>
+      <br/>
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4ODc5YjE1ZDM5ZDM5ZDM5ZDM5ZDM5ZDM5ZDM5ZDM5ZD/L1R1tvI9svkIWwpYqx/giphy.gif" width="90%" style="border-radius: 10px; border: 2px solid #00D9FF;"/>
       </div>
+    </td>
+    <td width="50%" valign="top">
+      <h2>⚡ SYSTEM_SPECS</h2>
+      <code>
+        const Tirth = {
+          currentLocation: "Gujarat, India",
+          education: "B.Tech CSE @ Darshan Univ",
+          codeName: "OGTirth",
+          arch: ["Security Strategist", "MERN Architect"],
+          mission: "Building Fortresses & Breaking Walls",
+          status: "Hunting 0-days",
+          funFact: "I hack my own code to test it."
+        };
+      </code>
+      <br/><br/>
+      <h3>📡 CURRENT_OBJECTIVES</h3>
+      <ul>
+        <li>🛡️ <b>Red Teaming:</b> Advanced Persistent Threats</li>
+        <li>🧠 <b>Neural Sec:</b> AI for Threat Detection</li>
+        <li>🏗️ <b>Architecture:</b> Scalable MERN Systems</li>
+      </ul>
+      <br/>
+      <a href="https://www.linkedin.com/in/thetirthparmar">
+        <img src="https://img.shields.io/badge/Connect_Signal-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:thetirthparmar@gmail.com">
+        <img src="https://img.shields.io/badge/Send_Packet-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
-<h2 align="center">🛠️ My Arsenal</h2>
-
-<div align="center">
-
-### 🛡️ Cybersecurity & Penetration Testing
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,bash" alt="OS & Tools"/>
-<br/>
-<img src="https://img.shields.io/badge/Nmap-00D9FF?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0A0A0A" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0A0A" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-FF3366?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0A0A0A" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0A0A0A" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Ghidra-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A0A0A" alt="Ghidra"/>
-
-### 💻 Full-Stack Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,javascript,typescript,html,css" alt="Tech Stack"/>
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A0A0A" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A" alt="PostgreSQL"/>
-
-### 🤖 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0A0A0A" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0A0A" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0A0A0A" alt="NumPy"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF3366&currStreakLabel=00D9FF&background=0D1117&stroke=30363D" width="48%" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF3366&point=00D9FF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=tokyonight&no-frame=true&margin-w=15&column=7&row=1&no-bg=true&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers" alt="Trophy Stats" width="90%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
-
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🛠️ WEAPONRY & ARSENAL</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpYqx/giphy.gif" width="100px" alt="Cybersecurity"/>
-        <br/><b>🛡️ Advanced Penetration Testing</b>
-        <br/>Exploring zero-day exploits & advanced persistent threats
+        <h3>⚔️ OFFENSIVE</h3>
+        <img src="https://skillicons.dev/icons?i=kali,bash,linux,python" /><br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nmap-00D9FF?style=flat-square&logo=nmap&logoColor=white&labelColor=000"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100px" alt="AI"/>
-        <br/><b>🤖 AI-Powered Security</b>
-        <br/>Building ML models for threat detection & analysis
+        <h3>🏗️ ARCHITECTURE</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" /><br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" alt="Development"/>
-        <br/><b>🚀 Secure Full-Stack Apps</b>
-        <br/>Creating bulletproof web applications with modern tech
+        <h3>🧠 INTELLIGENCE</h3>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git" /><br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       </td>
     </tr>
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
+<br/>
 
-<h2 align="center">🌐 Let's Connect & Collaborate</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thetirthparmar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" />
-  </a>
-  <a href="mailto:thetirthparmar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" alt="Email" />
-  </a>
-  <a href="https://twitter.com/thetirthparmar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A" alt="Twitter" />
-  </a>
-  <a href="https://github.com/ogtirth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
-</div>
+<h2 align="center">📊 SYSTEM_TELEMETRY</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogtirth&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ogtirth?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogtirth&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF3366&currStreakLabel=00D9FF" alt="Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ogtirth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF3366&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ogtirth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogtirth&theme=react&bg_color=0D1117&color=00D9FF&line=FF3366&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=2000&color=00D9FF¢er=true&vCenter=true&width=600&lines=💡+Always+open+to+interesting+projects+and+collaborations!;🔐+Let's+build+something+secure+together!;📫+Feel+free+to+reach+out!" alt="Footer message" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=100&section=footer&text=TERMINATING_SESSION...&fontSize=20&fontAlign=50&fontAlignY=40&animation=twinkling&stroke=00D9FF" width="100%"/>
 </div>
